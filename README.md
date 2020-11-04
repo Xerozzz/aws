@@ -15,5 +15,5 @@ A repo of AWS scripts, blogs and guides that I created for my reference. Feel fr
 ## Blogs
 | Name  | Last Revised  |
 |--|--|
-|[Amazon SNS Now Has FIFO](https://yiternglee02.medium.com/amazon-sns-now-has-fifo-e87797f5e3c1)|
-|[My AWS Journey Thus Far](https://medium.com/swlh/my-aws-journey-thus-far-fc28e4bc1b64)|
+|[Amazon SNS Now Has FIFO](https://yiternglee02.medium.com/amazon-sns-now-has-fifo-e87797f5e3c1)| 4th November 2020 |
+|[My AWS Journey Thus Far](https://medium.com/swlh/my-aws-journey-thus-far-fc28e4bc1b64)| 4th November 2020 |
