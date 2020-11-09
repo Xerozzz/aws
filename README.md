@@ -12,6 +12,7 @@ A repo of AWS scripts, blogs and guides that I created for my reference. Feel fr
 |--|--|
 | [How to launch EC2 instances in AWS](https://yiternglee02.medium.com/3-ways-to-launch-an-amazon-ec2-instance-9e88d34357ec) | 4th November 2020 |
 |[Configuring and installing AWS CLI](https://yiternglee02.medium.com/configuring-aws-cli-675021ce8ee0)| 4th November 2020 |
+| [What are Amazon Machine Images (AMI) and how to create them](https://yiternglee02.medium.com/what-are-amazon-machine-images-ami-8554cbfd8d7d)| 9th November 2020|
 
 ## Blogs
 | Name  | Last Revised  |
