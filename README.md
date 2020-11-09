@@ -5,6 +5,7 @@ A repo of AWS scripts, blogs and guides that I created for my reference. Feel fr
 | Name  | Type | Service | Last Revised  |
 |--|--|--|--|
 | [Describe all instances in your default AWS account](./scripts/ec2/describe%20all%20instances)| Powershell/Linux Shell Script | EC2 | 4th November 2020 |
+| [Create an AMI from existing EC2 Instance](./scripts/ec2/create%20an%20ami)| Linux | EC2 | 9th November 2020 |
 
 ## Guides
 | Name  | Last Revised  |
