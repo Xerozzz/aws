@@ -1,5 +1,5 @@
 # aws
-A repo of AWS scripts, blogs and guides that I created for my reference. Feel free to use them!
+A repo of AWS scripts, blogs and guides that I created for my reference. Feel free to use them! (Kinda inactive for a long while already, might add my newer resources soon)
 
 ## Scripts
 | Name  | Type | Service | Last Revised  |
